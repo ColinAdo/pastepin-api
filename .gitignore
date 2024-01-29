@@ -13,6 +13,8 @@ media
 
 tutorial/__pycache__/*
 
+snippets/migrations/
+
 schema.yml
 
 ### Django.Python Stack ###
